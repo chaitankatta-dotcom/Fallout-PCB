@@ -1,0 +1,1 @@
+My product is a PCB that is supposed to be memorable. It is definitely useful and not at all annoying. It works by an uploaded audio file that plays nonstop until the lipo battery dies, but the battery can also recharge for multiple uses,
