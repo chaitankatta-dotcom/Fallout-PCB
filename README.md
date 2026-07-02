@@ -10,13 +10,8 @@ My product is a PCB that is supposed to be memorable. It is definitely useful an
 | Solder Jumper (Power Switch) | SolderJumper-2 | 1 | $0.01 – $0.02 | $0.01 – $0.02 |
 | Battery Pads (Wire Pads) | Connector_Wire | 2 | $0.01 – $0.03 | $0.01 – $0.03 |
 | Speaker Pads (20mm) | Connector_Wire | 2 | $0.01 – $0.03 | $0.01 – $0.03 |
-
-| Scenario | Cost |
-|----------|------|
-| Minimum | **$8.15** |
-| Maximum | **$17.40** |
-
-
+| Minimum cost | **$1.63** |
+| Maximum cost | **$3.48** |
 
 
 
