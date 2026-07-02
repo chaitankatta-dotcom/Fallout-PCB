@@ -18,6 +18,7 @@ Per PCB: $1.63 – $3.48
 <img width="490" height="347" alt="Screenshot 2026-07-02 093409" src="https://github.com/user-attachments/assets/5e447e08-9719-46d2-850a-69b4aeddcafc" />
 <img width="487" height="386" alt="Screenshot 2026-07-02 093354" src="https://github.com/user-attachments/assets/738c90e6-6f69-4566-9705-8f609f941f63" />
 <img width="542" height="181" alt="Screenshot 2026-07-02 093653" src="https://github.com/user-attachments/assets/15a07088-4e30-4439-a7b2-78bba9193920" />
+<img width="883" height="467" alt="Screenshot 2026-07-02 094426" src="https://github.com/user-attachments/assets/3596519d-4d88-4761-b8e1-f2ef080a1192" />
 
 ## Slack User
 Chaitan
