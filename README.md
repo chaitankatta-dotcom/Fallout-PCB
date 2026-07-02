@@ -2,26 +2,24 @@
 My product is a PCB that is supposed to be memorable. It is definitely useful and not at all annoying. It works by an uploaded audio file that plays nonstop until the lipo battery dies, but the battery can also recharge for multiple uses,
 
 ##BOM
-TP4056 Charger IC
-- LCSC: C382139
-- $0.07 – $0.12
+| Part | LCSC Part / Type | Qty | Unit Price (USD) | Total |
+|------|------------------|-----|------------------|-------|
+| TP4056 Battery Charger IC | C382139 | 1 | $0.07 – $0.12 | $0.07 – $0.12 |
+| JQ6500 Audio Module | Module (LCSC marketplace) | 1 | $1.50 – $3.20 | $1.50 – $3.20 |
+| 470µF Electrolytic Capacitor | Generic LCSC | 1 | $0.03 – $0.08 | $0.03 – $0.08 |
+| Solder Jumper (Power Switch) | SolderJumper-2 | 1 | $0.01 – $0.02 | $0.01 – $0.02 |
+| Battery Pads (Wire Pads) | Connector_Wire | 2 | $0.01 – $0.03 | $0.01 – $0.03 |
+| Speaker Pads (20mm) | Connector_Wire | 2 | $0.01 – $0.03 | $0.01 – $0.03 |
 
-JQ6500 MP3 Module
-- $1.50 – $3.20
+| Scenario | Cost |
+|----------|------|
+| Minimum | **$8.15** |
+| Maximum | **$17.40** |
 
-470µF Capacitor
-- $0.03 – $0.08
 
-Solder Jumper (Power Switch)
-- $0.01 – $0.02
 
-Battery Pads (no JST)
-- $0.01 – $0.03
 
-Speaker Pads (20mm speaker)
-- $0.01 – $0.03
 
-Per PCB:
-$1.63 – $3.48
-5 PCBs:
-$8.15 – $17.40
+
+
+
