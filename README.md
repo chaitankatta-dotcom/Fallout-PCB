@@ -8,9 +8,6 @@ JQ6500 Audio Module     | 1 | $1.50 – $3.20
 Solder Jumper           | 1 | $0.01 – $0.02
 Battery Pads            | 1 | $0.01 – $0.03
 Speaker Pads            | 1 | $0.01 – $0.03
-$1.63 – $3.48 per PCB
-$8.15 – $17.40 for 5 PCBs
-
 
 
 
