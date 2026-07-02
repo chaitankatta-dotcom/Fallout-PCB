@@ -2,7 +2,7 @@
 My product is a PCB that is supposed to be memorable. It is definitely useful and not at all annoying. It works by an uploaded audio file that plays nonstop until the lipo battery dies, but the battery can also recharge for multiple uses,
 
 ##BOM
-| Part | LCSC Part / Type | Qty | Unit Price (USD) |
+| Part | LCSC Part / Type | Qty | Unit Price (USD) | Total |
 |------|------------------|-----|------------------|
 | TP4056 Battery Charger IC | C382139 | 1 | $0.07 – $0.12 |
 | JQ6500 Audio Module | Module (LCSC marketplace) | 1 | $1.50 – $3.20 |
